@@ -1,10 +1,16 @@
 # Tổng hợp kiến thức về Ruby on Rails
 
+## Courses
+
+#### [Ruby](./ruby/course.md)
+#### [Database](./database/course.md)
+#### [Ruby on Rails](./rails/course.md)
+
 ## Tài liệu tham khảo
 
 ### Ruby
 
-#### [Kiểu chuẩn](./ruby/standard.md)
+#### [Kiểu chuẩn](./ruby/coding_standard.md)
 #### Book
 
 - [rubystyle](https://rails.rubystyle.guide/)
@@ -17,7 +23,7 @@
 - [testing-rails](https://books.thoughtbot.com/assets/testing-rails.pdf)
 - [betterspecs](https://www.betterspecs.org/)
 
-#### [Kiểu chuẩn](./rails/standard.md)
+#### [Kiểu chuẩn](./rails/coding_standard.md)
 #### [Phần viết test](./rails/test.md)
 #### [Các Gem](./rails/gems.md)
 
